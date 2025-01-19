@@ -1,4 +1,3 @@
-          padding: EdgeInsets.all(10),
 import 'package:appvotacionesg10/pages/login_screen.dart';
 import 'package:appvotacionesg10/pages/pets_list_screen.dart';
 import 'package:appvotacionesg10/pages/register_pet_screen.dart';
